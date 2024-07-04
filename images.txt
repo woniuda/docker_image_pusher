@@ -1,1 +1,1 @@
-csiplugin/snapshot-controller:v4.0.0
+tomcat 8.5.41-alpine 
