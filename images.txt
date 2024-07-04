@@ -1,1 +1,1 @@
-tomcat:8.5.41-alpine
+ananwaresystems/webarchive:1.0
