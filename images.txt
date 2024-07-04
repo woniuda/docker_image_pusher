@@ -1,1 +1,1 @@
-bats/bats:1.2.1
+prom/mysqld-exporter:v0.10.0
