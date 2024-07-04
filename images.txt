@@ -1,1 +1,1 @@
-wordpresss:latest
+wordpress
